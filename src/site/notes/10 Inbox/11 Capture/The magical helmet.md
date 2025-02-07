@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-logbook/zettelkasten/20-personal/23-writing/23-02-stories/23-02-04-finished/the-magical-helmet/"}
+{"dg-publish":true,"permalink":"the-magical-helmet/"}
 ---
 
 "Oh, what a beautiful weather we have here" thought Edfeil while laying in grass being greeted by the last rays of sunlight of that day.  He had been working all day on the farm that was situated on the Table Mountain. In the distance he heard some of the farm animals. They were his only company here. In a radius of two hundred kilometers one could not find a human soul besides him.

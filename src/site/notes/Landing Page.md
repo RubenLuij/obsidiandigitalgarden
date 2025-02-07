@@ -8,3 +8,4 @@ This is my testground and my personal Digital Garden. If you want to come in con
 
 [[Personal logbook/Zettelkasten/20 Personal/23 Writing/23.02 Stories/23.02.04 Finished/The magical helmet\|The magical helmet]]  
 [[Personal logbook/Zettelkasten/20 Personal/23 Writing/23.02 Stories/23.02.04 Finished/Bartender revisions/Bartender 2.1\|Bartender 2.1]]
+[[Latex Tryout\|Latex Tryout]]

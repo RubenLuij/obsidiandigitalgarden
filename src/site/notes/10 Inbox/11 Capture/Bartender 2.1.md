@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-logbook/zettelkasten/20-personal/23-writing/23-02-stories/23-02-04-finished/bartender-revisions/bartender-2-1/"}
+{"dg-publish":true,"permalink":"bartender-2-1/"}
 ---
 
 
